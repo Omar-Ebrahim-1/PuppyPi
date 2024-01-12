@@ -1,6 +1,6 @@
 # PuppyPi Robot
 
-![PuppyPi Robot](./Images/puppypi.jpg)
+![PuppyPi Robot](./Images/puppypi.png)
 
 PuppyPi is a quadrepedal robot dog designed for research purposes. It can be controlled remotely using a dedicated remote control or autonomously through computer vision capabilities. The project focuses on data acquisition from various surfaces and terrains to optimize the navigation of quadrapedal robots.
 
